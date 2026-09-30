@@ -78,4 +78,4 @@ The dashboard provides analysis of:
 
 **Rohit**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Aspiring Data Analyst | Power BI | SQL | Excel |
